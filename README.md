@@ -71,7 +71,19 @@ This project incorporates ITSM practices to reflect enterprise-level systems:
 ## 📸 Project Screenshots
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-11 134738" src="https://github.com/user-attachments/assets/6cd8db62-7c3c-4308-93bd-ead473430ec2" />
- />
+<img width="1901" height="906" alt="Screenshot 2025-12-11 161015" src="https://github.com/user-attachments/assets/fb26fdb8-63ed-437a-8828-0a7d598e5e32" />
+<img width="1896" height="828" alt="Screenshot 2025-12-11 161119" src="https://github.com/user-attachments/assets/e86987e8-5a50-4726-9574-40c9acf59f4c" />
+<img width="1895" height="901" alt="Screenshot 2025-12-11 161142" src="https://github.com/user-attachments/assets/329a9c59-8149-4f18-85bc-008a181786d4" />
+<img width="1893" height="909" alt="Screenshot 2025-12-11 161317" src="https://github.com/user-attachments/assets/6eebf193-12fc-4141-a7a7-756a5fa97be4" />
+<img width="1899" height="904" alt="Screenshot 2025-12-11 161330" src="https://github.com/user-attachments/assets/27014a22-8f34-4c27-9f0c-12ff8a2e8026" />
+<img width="1896" height="911" alt="Screenshot 2025-12-11 161354" src="https://github.com/user-attachments/assets/28668d4b-082d-4721-aff9-3082c248083a" />
+<img width="1901" height="437" alt="Screenshot 2025-12-11 161418" src="https://github.com/user-attachments/assets/d9fcd79e-97d9-4773-ba2e-f4980df873ce" />
+
+
+
+
+
+
 
 
 
